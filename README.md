@@ -1,11 +1,20 @@
 # Microsoft Intune Endpoint Management, Security & Remote Support Lab
 
-## Table of Contents
+## 📌 Overview
 
-- [Project Overview](#project-overview)
-- [Objectives](#objectives)
-- [Technologies & Services](#technologies--services)
-- [Lab Implementation](#lab-implementation)
+A hands-on **Microsoft Intune Endpoint Management, Security & Remote Support Lab** demonstrating endpoint management, device security, application deployment, compliance, and remote support.
+
+The lab demonstrates practical administration of Windows and Android devices using Microsoft Intune integrated with Microsoft Entra ID.
+
+---
+
+## 📑 Table of Contents
+
+- [📌 Overview](#-overview)
+- [📑 Table of Contents](#-table-of-contents)
+- [📋 Objectives](#-objectives)
+- [🛠️ Technologies & Services](#️-technologies--services)
+- [🏗️ Lab Implementation](#️-lab-implementation)
   - [Device Enrollment & Management](#device-enrollment--management)
   - [Enrollment Restrictions](#enrollment-restrictions)
   - [Scope Tags](#scope-tags)
@@ -17,23 +26,17 @@
   - [Conditional Access](#conditional-access)
   - [BitLocker Management](#bitlocker-management)
   - [Remote Help](#remote-help)
-- [Monitoring & Management](#monitoring--management)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Documentation](#documentation)
-- [Project Structure](#project-structure)
-- [Project Summary](#project-summary)
+- [📊 Monitoring & Management](#-monitoring--management)
+- [🧠 Skills Demonstrated](#-skills-demonstrated)
+- [📄 Documentation](#-documentation)
+- [📁 Project Structure](#-project-structure)
+- [⭐ Project Summary](#-project-summary)
 
 ---
 
-## Project Overview
+## 📋 Objectives
 
-This project is a hands-on Microsoft Intune lab focused on endpoint management, device security, application deployment, compliance, and remote support.
-
-The lab demonstrates practical administration of Windows and Android devices using Microsoft Intune integrated with Microsoft Entra ID.
-
----
-
-## Objectives
+The main objectives of this lab were to:
 
 - Configure Windows and Android device enrollment.
 - Manage devices using Microsoft Intune.
@@ -50,7 +53,7 @@ The lab demonstrates practical administration of Windows and Android devices usi
 
 ---
 
-## Technologies & Services
+## 🛠️ Technologies & Services
 
 - Microsoft Intune
 - Microsoft Entra ID
@@ -68,61 +71,61 @@ The lab demonstrates practical administration of Windows and Android devices usi
 
 ---
 
-## Lab Implementation
+# 🏗️ Lab Implementation
 
-### Device Enrollment & Management
+## Device Enrollment & Management
 
 Configured Windows and Android device enrollment and management through Microsoft Intune.
 
-### Enrollment Restrictions
+## Enrollment Restrictions
 
 Configured enrollment restrictions to control which devices and platforms can enroll into Microsoft Intune.
 
-### Scope Tags
+## Scope Tags
 
 Configured Scope Tags to control administrative visibility and management scope within Intune.
 
-### Compliance Policies
+## Compliance Policies
 
 Created and configured compliance policies to evaluate device compliance and management status.
 
-### Endpoint Security
+## Endpoint Security
 
 Configured endpoint security policies for managed devices.
 
-### Device Configuration
+## Device Configuration
 
 Configured device configuration policies to manage settings on enrolled devices.
 
-### Application Management
+## Application Management
 
 Configured application deployment and management through Microsoft Intune.
 
-### Android App Protection
+## Android App Protection
 
 Configured Android application protection capabilities for managed applications.
 
-### Conditional Access
+## Conditional Access
 
 Configured Conditional Access policies integrated with Microsoft Entra ID and Intune.
 
-### BitLocker Management
+## BitLocker Management
 
 Configured BitLocker management for Windows devices through Microsoft Intune.
 
-### Remote Help
+## Remote Help
 
 Configured and tested Remote Help capabilities for remote device support.
 
 ---
 
-## Monitoring & Management
+# 📊 Monitoring & Management
 
 Used Microsoft Intune to monitor enrolled devices, review device status, manage applications and policies, and perform administrative actions.
 
 ---
 
-## Skills Demonstrated
+# 🧠 Skills Demonstrated
 
 - Microsoft Intune Administration
 - Microsoft Entra ID
@@ -142,7 +145,7 @@ Used Microsoft Intune to monitor enrolled devices, review device status, manage 
 
 ---
 
-## Documentation
+# 📄 Documentation
 
 Complete lab documentation is available in the project repository:
 
@@ -150,7 +153,7 @@ Complete lab documentation is available in the project repository:
 
 ---
 
-## Project Structure
+# 📁 Project Structure
 
 ```text
 Microsoft-Intune-Endpoint-Management-Security-Remote-Support-Lab/
